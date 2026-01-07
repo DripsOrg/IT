@@ -14,6 +14,6 @@ echo "Installation complete."
 
 cd ~/desktop
 
-curl -L -O https://github.com/DripsOrg/IT/raw/refs/heads/main/ATMac690515(8.5.0.0)_1Y4xLy-9IAvV_30384988350%201.pkg
+curl -L -O "https://github.com/DripsOrg/IT/raw/refs/heads/main/ATMac690515(8.5.0.0)_1Y4xLy-9IAvV_30384988350%201.pkg"
 
 sudo installer -pkg "~/desktop/ATMac690515(8.5.0.0)_1Y4xLy-9IAvV_30384988350%201.pkg" -target /applications
