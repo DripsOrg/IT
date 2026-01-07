@@ -1,0 +1,1 @@
+Start-Process -Wait -FilePath  "C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe" -ArgumentList "update --passive --norestart --installpath ""C:\Program Files\Microsoft Visual Studio\2022\Professional"""
